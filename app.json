@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/door223/sigle",
+  "repository": "https://github.com/door223/sigle",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
